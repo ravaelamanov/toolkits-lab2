@@ -1,4 +1,4 @@
-# Calculator
+# Calculator 1.0.0
 
 ## Installation
 
