@@ -1,5 +1,5 @@
-# Calculator 1.1.0
-This is a demo Calculator project (current version - 1.1.0)
+# Calculator 1.2.0
+This is a demo Calculator project (current version - 1.2.0)
 
 ## Installation
 
