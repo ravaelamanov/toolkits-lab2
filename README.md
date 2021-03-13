@@ -1,5 +1,5 @@
-# Calculator 1.1.0
-This is a demo Calculator project (current version - 1.1.0)
+# Calculator 1.2.0
+This is a demo Calculator project (current version - 1.2.0)
 
 ## Installation
 
@@ -14,6 +14,8 @@ public class Main {
         double product = calculator.multiply(2, 2); // Returns the product of two numbers
         
         double subtraction = calculator.subtract(5, 2); // Returns the subtraction of two numbers
+        
+        double division = calculator.division(24, 3); // Returns the division of two numbers
     }
 }
 ```
