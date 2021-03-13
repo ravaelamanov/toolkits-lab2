@@ -16,6 +16,8 @@ public class Main {
         double subtraction = calculator.subtract(5, 2); // Returns the subtraction of two numbers
         
         double division = calculator.division(24, 3); // Returns the division of two numbers
+        
+        double result = calculator.complexFunction(5, 5); // Returns the complex function result
     }
 }
 ```
