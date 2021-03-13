@@ -1,5 +1,5 @@
-# Calculator 1.2.1
-This is a demo Calculator project (current version - 1.2.1)
+# Calculator 1.3.0
+This is a demo Calculator project (current version - 1.3.0)
 
 ## Installation
 
@@ -16,6 +16,8 @@ public class Main {
         double subtraction = calculator.subtract(5, 2); // Returns the subtraction of two numbers
         
         double division = calculator.division(24, 3); // Returns the division of two numbers
+        
+        double result = calculator.complexFunction(5, 5); // Returns the complex function result
     }
 }
 ```
