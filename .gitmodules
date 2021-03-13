@@ -1,0 +1,3 @@
+[submodule "toolkits-lab2-lib"]
+	path = toolkits-lab2-lib
+	url = https://github.com/ravaelamanov/toolkits-lab2-lib.git
