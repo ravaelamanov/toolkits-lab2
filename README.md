@@ -1,9 +1,22 @@
-# Calculator 1.0.0
+# Calculator 1.1.0
+This is a demo Calculator project (current version - 1.1.0)
 
 ## Installation
 
 ## Usage
-
+```java
+public class Main {
+    public static void main(String[] args) {
+        Calculator calculator = new Calculator(); // Init calculator object
+        
+        double sum = calculator.add(5, 10); // Returns the sum of two numbers
+        
+        double product = calculator.multiply(2, 2); // Returns the product of two numbers
+        
+        double subtraction = calculator.subtract(5, 2); // Returns the subtraction of two numbers
+    }
+}
+```
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
